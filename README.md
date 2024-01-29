@@ -1,14 +1,38 @@
 # Fast Realistic Rendering (FRR) Lab Project - 1
 
+
+<div align="center">
+  <br />
+    <div>
+      <img src="" alt="Project Banner">
+    </div>
+  <br />
+
+  <div>
+    <img src="https://img.shields.io/badge/OpenGL-black?style=flat" alt="opengl" />
+    <img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat" alt="cpp" />
+    <img src="https://img.shields.io/badge/QtCreator%205-green?style=flat" alt="qtcreator5" />
+    <img src="https://img.shields.io/badge/Ubuntu-orange?style=flat" alt="ubuntu" />
+  </div>
+
+  <h3 align="center">A Physically Based Renderer</h3>
+
+   <div align="center">
+     A gentle introduction to OpenGL rendering, from basic visualization to Image Based Lighting (IBL).
+    </div>
+</div>
+
+
+
 ## Table of contents
-* [General info](#general-info)
+<!-- * [General info](#general-info) -->
 * [How to run](#how-to-run)
 * [Basic Vizualization](#basic-vizualization) 
 * [Physically Based Rendering](#pbr)
 * [Image Based Lighting](#ibl) 
 
-## General info
-Introductory OpenGL / C++ project in Physically Based Rendering for the FRR course.
+<!-- ## General info
+Introductory OpenGL / C++ project in Physically Based Rendering for the FRR course. -->
 
 ## How to run
 (Linux only, due to Qt dependencies) Use QtCreator 5, open ViewerPBS23.pro, compile & run.
