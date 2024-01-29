@@ -7,7 +7,7 @@
   </div>
   
   <br />
-  <br />
+
   <div>
     <img src="https://img.shields.io/badge/OpenGL-black?style=flat" alt="opengl" />
     <img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat" alt="cpp" />
