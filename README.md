@@ -6,6 +6,8 @@
     A gentle introduction to OpenGL rendering, from basic visualization to Image Based Lighting (IBL).
   </div>
   
+  <br />
+  <br />
   <div>
     <img src="https://img.shields.io/badge/OpenGL-black?style=flat" alt="opengl" />
     <img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat" alt="cpp" />
@@ -14,7 +16,7 @@
   </div>
 </div>
 
-<br />
+
 
 ## 📋 <a name="table">Table of Contents</a>
 1. 🤖 [Introduction](#introduction)
@@ -50,7 +52,7 @@ Scene cubemap downscaled   |  Reflection
 ![](repo_images/1-skybox-little.png)  |  ![](repo_images/1-reflection.png)
 
 
-## <a name="pbr">🤖 Physically Based Rendering</a>
+## <a name="pbr">💡 Physically Based Rendering</a>
 **Bi-directional Reflectance Distribution Function (BRDF)**
 - Using the Schlick approximation of the Fresnel factor 
 - Using the GGX/Trowbridge-Reitz function as Normal Distribution
