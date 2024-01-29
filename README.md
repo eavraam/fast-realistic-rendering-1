@@ -33,8 +33,8 @@ Developed using C++ inside QtCreator 5 and OpenGL as the rendering backend, as p
 ## <a name="how-to-run">⚙️ How to run</a>
 **Prerequisites**
 Make sure you have the following installed on your machine:
-- [Ubuntu Linux] (https://ubuntu.com/) (Operating System)
-- [QtCreator 5] (https://doc.qt.io/qt-5/gettingstarted.html)
+- [Ubuntu Linux](https://ubuntu.com/) (Operating System)
+- [QtCreator 5](https://doc.qt.io/qt-5/gettingstarted.html)
 
 **Running the project**
 - Open ViewerPBS23.pro
