@@ -21,7 +21,7 @@
 ## 📋 <a name="table">Table of Contents</a>
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [How to run](#how-to-run)
-3. 📸 [Basic Vizualization](#basic-vizualization)
+3. 📸 [Basic Visualization](#basic-visualization)
 4. 💡  [Physically Based Rendering](#pbr)
 5. 🖼️ [Image Based Lighting](#ibl) 
 
@@ -43,9 +43,9 @@ Make sure you have the following installed on your machine:
 - Compile & run
 
 
-## <a name="basic-vizualization">📸 Basic Vizualization</a>
+## <a name="basic-visualization">📸 Basic Visualization</a>
 
-**Vizualization of a sphere at the center of a cubemap.**
+**Visualization of a sphere at the center of a cubemap.**
 
 - Phong lighting on a sphere (colored or textured sphere)
 - Cubemap / Skybox
@@ -74,7 +74,7 @@ Using global values        |  Using simple pbs material
 
 ## <a name="ibl">🖼️ Image Based Lighting</a>
 
-**Environment mapping for more physically accurate vizualization.**
+**Environment mapping for more physically accurate visualization.**
 
 **Diffuse Irradiance:**
 - Using another Schlick approximation of the Fresnel factor that takes roughness into account
