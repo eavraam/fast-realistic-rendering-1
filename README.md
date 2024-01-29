@@ -31,7 +31,9 @@ Developed using C++ inside QtCreator 5 and OpenGL as the rendering backend, as p
 
 
 ## <a name="how-to-run">⚙️ How to run</a>
+
 **Prerequisites**
+
 Make sure you have the following installed on your machine:
 - [Ubuntu Linux](https://ubuntu.com/) (Operating System)
 - [QtCreator 5](https://doc.qt.io/qt-5/gettingstarted.html)
@@ -42,7 +44,9 @@ Make sure you have the following installed on your machine:
 
 
 ## <a name="basic-vizualization">📸 Basic Vizualization</a>
+
 **Vizualization of a sphere at the center of a cubemap.**
+
 - Phong lighting on a sphere (colored or textured sphere)
 - Cubemap / Skybox
 - Reflection
@@ -53,7 +57,9 @@ Scene cubemap downscaled   |  Reflection
 
 
 ## <a name="pbr">💡 Physically Based Rendering</a>
+
 **Bi-directional Reflectance Distribution Function (BRDF)**
+
 - Using the Schlick approximation of the Fresnel factor 
 - Using the GGX/Trowbridge-Reitz function as Normal Distribution
 - Using the Schlick-GGX model as Geometry Shadowing Function
@@ -67,6 +73,7 @@ Using global values        |  Using simple pbs material
 
 
 ## <a name="ibl">🖼️ Image Based Lighting</a>
+
 **Environment mapping for more physically accurate vizualization.**
 
 **Diffuse Irradiance:**
